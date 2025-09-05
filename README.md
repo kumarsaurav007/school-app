@@ -81,3 +81,10 @@ npm run dev
 The app will be available at:
 - http://localhost:3000/addSchool (form to add a school)
 - http://localhost:3000/showSchools (list of schools)
+
+---
+
+##  Live Demo
+[School Management App](https://school-app-ten-phi.vercel.app/addSchool)
+
+---
